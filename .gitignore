@@ -1,102 +1,1 @@
-######################
-# Trash
-######################
-logs/
-.pyc
-
-venv/*
-######################
-# Maven
-######################
-
-.mvn
-mvnw*
-
-# Directories #
-/build/
-/bin/
-target/
-
- 
-# OS Files #
-.DS_Store
- 
-*.class
- 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.db
- 
-######################
-# Windows
-######################
- 
-# Windows image file caches
-Thumbs.db 
- 
-# Folder config file
-Desktop.ini
- 
-######################
-# OSX
-######################
- 
-.DS_Store
-.svn
- 
-# Thumbnails
-._*
- 
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-######################
-# Idea
-######################
-.idea/
-.idea*
-.idea\
-*.iml
- 
-######################
-# Eclipse
-######################
- 
-*.pydevproject
-.project
-.metadata
-.springBeans
-bin/**
-tmp/**
-tmp/**/*
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.classpath
-.settings/
-.loadpath
-/src/main/resources/rebel.xml
-# External tool builders
-.externalToolBuilders/
- 
-# Locally stored "Eclipse launch configurations"
-*.launch
- 
-# CDT-specific
-.cproject
- 
-# PDT-specific
-.buildpath
-
-
-venv/cx_Oracle-doc/LICENSE.txt
-venv/cx_Oracle-doc/README.txt
-venv/*.*
-venv*/
-bisbase_1.13.1/model/__init__.pyc
-*.pyc
+####################### Trash######################logs/.pycvenv/*####################### Maven######################.mvnmvnw*# Directories #/build//bin/target/ # OS Files #.DS_Store *.class # Package Files #*.jar*.war*.ear*.db ####################### Windows###################### # Windows image file cachesThumbs.db  # Folder config fileDesktop.ini ####################### OSX###################### .DS_Store.svn # Thumbnails._* # Files that might appear on external disk.Spotlight-V100.Trashes####################### Idea######################.idea/.idea*.idea\*.iml ####################### Eclipse###################### *.pydevproject.project.metadata.springBeansbin/**tmp/**tmp/**/**.tmp*.bak*.swp*~.niblocal.properties.classpath.settings/.loadpath/src/main/resources/rebel.xml# External tool builders.externalToolBuilders/ # Locally stored "Eclipse launch configurations"*.launch # CDT-specific.cproject # PDT-specific.buildpathvenv/cx_Oracle-doc/LICENSE.txtvenv/cx_Oracle-doc/README.txtvenv/*.*venv*/bisbase_1.13.1/model/__init__.pyc*.pyc/.idea/workspace.xml
