@@ -1,4 +1,4 @@
-# Project Title
+# Aвтоматизация тестирования с помощью Selenium и Python
 
 В этом репозитоии будет хранится  решений а о прохождению курса "Автоматизация тестирования с помощью Selenium и Python"
 
@@ -12,13 +12,9 @@
 
 ## Authors
 
-* **Maxim Rumyantsev** - *Initial work* - [PurpleBooth](https://github.com/maximencia)
+* **Maxim Rumyantsev** - *прохождение курса* - [Автоматизация тестирования с помощью Selenium и Python](https://github.com/maximencia/py_selenium_stepik)
 
-See also another project. (https://github.com/maximencia/*).
-
-## License
-
-???
+See also another project. (https://github.com/maximencia).
 
 ## Acknowledgments
 
